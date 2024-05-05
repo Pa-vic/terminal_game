@@ -2,7 +2,7 @@
 
 Unwind with a Classic Game in your Terminal
 
-![Tic Tac Toe](tic_tac_toe_image.png)
+![Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe#/media/File:Tic_tac_toe.svg)
 
 ## Table of Contents
 
